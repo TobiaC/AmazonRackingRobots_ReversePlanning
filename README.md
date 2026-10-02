@@ -5,5 +5,5 @@ A STRIPS domain has been invented and implemented in PDDL, a simplified version 
 To know more about this project read the report in the report folder.
 
 TODO
-- use RevPlan tool to computer reverse plans for the K implementation.
+- use RevPlan tool to compute reverse plans for the K implementation.
 - expand K implementation
